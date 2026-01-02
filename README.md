@@ -43,7 +43,7 @@ Ain Shams University (2020 – 2025)
   <li>English – Fluent</li>
   <li>French – Intermediate</li>
 </ul>
----
+
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
@@ -74,9 +74,3 @@ Ain Shams University (2020 – 2025)
 
 </p>
 
-
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarolMaged&show_icons=true&theme=default" />
-</p>
