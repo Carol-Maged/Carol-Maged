@@ -6,7 +6,7 @@
 </p>
 -->
 
-<h1 align="center">Hi 👋, I'm Carol Maged</h1>
+<h1 align="center">Hi , I'm Carol Maged</h1>
 <h3 align="center">Full Stack .NET Developer | Software Engineer</h3>
 
 <p align="center">
@@ -27,6 +27,22 @@ I also have hands-on experience in <b>embedded systems, AUTOSAR</b>, and
 <b>machine learning</b>, giving me a strong cross-domain engineering mindset.
 </p>
 
+---
+
+<h3 align="left">🎓 Education</h3>
+<p>
+<b>B.Sc. Computer Engineering</b><br/>
+Ain Shams University (2020 – 2025)
+</p>
+
+---
+
+<h3 align="left">🌍 Languages</h3>
+<ul>
+  <li>Arabic – Native</li>
+  <li>English – Fluent</li>
+  <li>French – Intermediate</li>
+</ul>
 ---
 
 <h3 align="left">🛠️ Languages & Tools</h3>
@@ -58,52 +74,7 @@ I also have hands-on experience in <b>embedded systems, AUTOSAR</b>, and
 
 </p>
 
----
 
-<h3 align="left">🚀 Featured Projects</h3>
-
-<ul>
-  <li>
-    <b>AUTOSAR Authoring Tool (Graduation Project)</b><br/>
-    Java & Eclipse RCP based tool for AUTOSAR configuration, ARXML generation,
-    runnable-to-task mapping, and RTE source/header file generation.
-  </li>
-  <br/>
-  <li>
-    <b>E-Learning System – ASP.NET Web API</b><br/>
-    Backend system with RESTful APIs, authentication, role-based access control,
-    Entity Framework Core integration, and secure database operations.
-  </li>
-  <br/>
-  <li>
-    <b>Art Shop Website – Django</b><br/>
-    Python-based e-commerce application following three-tier architecture.
-  </li>
-  <br/>
-  <li>
-    <b>CPU Scheduler & Task Manager – Java</b><br/>
-    Implemented scheduling algorithms with Gantt chart visualization and JavaFX UI.
-  </li>
-</ul>
-
----
-
-<h3 align="left">🎓 Education</h3>
-<p>
-<b>B.Sc. Computer Engineering</b><br/>
-Ain Shams University (2020 – 2025)
-</p>
-
----
-
-<h3 align="left">🌍 Languages</h3>
-<ul>
-  <li>Arabic – Native</li>
-  <li>English – Fluent</li>
-  <li>French – Intermediate</li>
-</ul>
-
----
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
